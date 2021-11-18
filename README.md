@@ -8,6 +8,8 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=msr8&theme=radical&layout=compact)
 
+![Wakatime Statistics](https://github-readme-stats.vercel.app/api/wakatime?username=msr8&theme=radical)
+
 <br>
 
 # CATEGORISED REPOSITORIES
