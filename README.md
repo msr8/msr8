@@ -1,10 +1,10 @@
 # STATISTICS
 
-![MSR8 Statistics](https://github-readme-stats.vercel.app/api?username=msr8&show_icons=true&hide=prs&theme=midnight-purple)
+![MSR8 Statistics](https://github-readme-stats.vercel.app/api?username=msr8&show_icons=true&hide=prs&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=msr8&theme=midnight-purple&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=msr8&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&layout=compact)
 
-![Wakatime Statistics](https://github-readme-stats.vercel.app/api/wakatime?username=msr8&theme=midnight-purple&layout=compact)
+![Wakatime Statistics](https://github-readme-stats.vercel.app/api/wakatime?username=msr8&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&layout=compact)
 
 <br>
 
@@ -26,6 +26,8 @@ dark
 radical
 midnight-purple
 github_dark
+
+![Kittinan's github stats](https://github-readme-stats.vercel.app/api?username=kittinan&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 -->
 
