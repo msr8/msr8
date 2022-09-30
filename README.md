@@ -1,4 +1,4 @@
-# STATISTICS
+# Statistics
 
 ![MSR8 Statistics](https://github-readme-stats.vercel.app/api?username=msr8&show_icons=true&hide=prs&theme=dark)
 
@@ -8,7 +8,7 @@
 
 <br>
 
-# Shit I am proud of :D
+# Stuff I am proud of :D
 
 [ ![markify](https://github-readme-stats.vercel.app/api/pin/?username=msr8&repo=markify&theme=github_dark) ](https://github.com/msr8/markify)
 
