@@ -8,11 +8,11 @@
 
 <br>
 
-# Stuff I am proud of :D
+# Projects
 
 [ ![markify](https://github-readme-stats.vercel.app/api/pin/?username=msr8&repo=markify&theme=github_dark) ](https://github.com/msr8/markify)
 
-[ ![catapi](https://github-readme-stats.vercel.app/api/pin/?username=msr8&repo=catapi&theme=github_dark) ](https://github.com/msr8/catapi)
+[ ![cats](https://github-readme-stats.vercel.app/api/pin/?username=msr8&repo=cats&theme=github_dark) ](https://github.com/msr8/cats)
 
 [ ![dotfiles](https://github-readme-stats.vercel.app/api/pin/?username=msr8&repo=dotfiles&theme=github_dark) ](https://github.com/msr8/dotfiles)
 
