@@ -10,9 +10,9 @@
 
 # Projects
 
-[ ![markify](https://github-readme-stats.vercel.app/api/pin/?username=msr8&repo=markify&theme=github_dark) ](https://github.com/msr8/markify)
-
 [ ![cats](https://github-readme-stats.vercel.app/api/pin/?username=msr8&repo=cats&theme=github_dark) ](https://github.com/msr8/cats)
+
+[ ![markify](https://github-readme-stats.vercel.app/api/pin/?username=msr8&repo=markify&theme=github_dark) ](https://github.com/msr8/markify)
 
 [ ![dotfiles](https://github-readme-stats.vercel.app/api/pin/?username=msr8&repo=dotfiles&theme=github_dark) ](https://github.com/msr8/dotfiles)
 
