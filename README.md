@@ -15,7 +15,7 @@
 
 # Skills
 
-<center>
+<div align="center">
 
 ![Python](https://skillicons.dev/icons?i=py)
 ![JS](https://skillicons.dev/icons?i=js)
@@ -26,7 +26,7 @@
 ![Linux](https://skillicons.dev/icons?i=linux)
 ![Github](https://skillicons.dev/icons?i=github)
 ![Tensorflow](https://skillicons.dev/icons?i=tensorflow)
-</center>
+</div>
 
 <!-- <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
 <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
