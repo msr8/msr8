@@ -1,6 +1,6 @@
 # Statistics
 
-<div style="display:flex; justify-content:space-between;">
+<div style="display:flex; justify-content:space-between;" align=center>
     <img alt="MSR8 Statistics" height=170 src="https://github-readme-stats.vercel.app/api?username=msr8&show_icons=true&rank_icon=github&hide=prs&include_all_commits=true&theme=radical" />
     <img alt="Top Languages"   height=170 src="https://github-readme-stats.vercel.app/api/top-langs/?username=msr8&layout=compact&theme=radical" />
 </div>
@@ -15,7 +15,7 @@
 
 # Skills
 
-<div align="center">
+<div align=center>
 
 ![Python](https://skillicons.dev/icons?i=py)
 ![JS](https://skillicons.dev/icons?i=js)
