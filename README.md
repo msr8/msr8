@@ -25,7 +25,7 @@
 ![Bash](https://skillicons.dev/icons?i=bash)
 ![Linux](https://skillicons.dev/icons?i=linux)
 ![Github](https://skillicons.dev/icons?i=github)
-![Tensorflow](https://skillicons.dev/icons?i=tensorflow)
+<!-- ![Tensorflow](https://skillicons.dev/icons?i=tensorflow) -->
 </div>
 
 <!-- <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
