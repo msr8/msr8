@@ -47,12 +47,12 @@
 # Projects
 
 <div style="display:flex; justify-content:space-between;">
-<a href="https://github.com/msr8/markify">  <img src="https://github-readme-stats.vercel.app/api/pin/?username=msr8&repo=markify&theme=dark"   height=120 /></a>
-<a href="https://github.com/msr8/ticactoe"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=msr8&repo=tictactoe&theme=dark" height=120 /></a>
+<a href="https://github.com/msr8/markify">   <img src="https://github-readme-stats.vercel.app/api/pin/?username=msr8&repo=markify&theme=dark"   height=120 width=400 /></a>
+<a href="https://github.com/msr8/tictactoe"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=msr8&repo=tictactoe&theme=dark" height=120 width=400 /></a>
 </div>
 <div style="display:flex; justify-content:space-between;">
-<a href="https://github.com/msr8/cats">     <img src="https://github-readme-stats.vercel.app/api/pin/?username=msr8&repo=cats&theme=dark"      height=120 /></a>
-<a href="https://github.com/msr8/dotfiles"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=msr8&repo=dotfiles&theme=dark"  height=120 /></a>
+<a href="https://github.com/msr8/cats">      <img src="https://github-readme-stats.vercel.app/api/pin/?username=msr8&repo=cats&theme=dark"      height=120 width=400 /></a>
+<a href="https://github.com/msr8/dotfiles">  <img src="https://github-readme-stats.vercel.app/api/pin/?username=msr8&repo=dotfiles&theme=dark"  height=120 width=400 /></a>
 </div>
 
 <!-- [ ![cats](https://github-readme-stats.vercel.app/api/pin/?username=msr8&repo=cats&theme=dark) ](https://github.com/msr8/cats)
