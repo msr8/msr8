@@ -1,4 +1,8 @@
+<div align=center style="width:100%">
+
 # Statistics
+
+</div>
 
 <div style="display:flex; justify-content:space-between;" align=center>
     <img alt="MSR8 Statistics" height=170 src="https://github-readme-stats.vercel.app/api?username=msr8&show_icons=true&rank_icon=github&hide=prs&include_all_commits=true&theme=radical" />
@@ -13,7 +17,7 @@
 
 
 
-<div align=center>
+<div align=center style="width:100%">
 
 # Skills
 
@@ -44,7 +48,7 @@
 
 
 
-<div align=center>
+<div align=center style="width:100%">
 
 # Projects
 
