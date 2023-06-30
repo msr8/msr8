@@ -21,26 +21,27 @@
 
 # Skills
 
-![Python](https://skillicons.dev/icons?i=py)
+<!-- ![Python](https://skillicons.dev/icons?i=py)
 ![JS](https://skillicons.dev/icons?i=js)
 ![HTML](https://skillicons.dev/icons?i=html)
 ![CSS](https://skillicons.dev/icons?i=css)
 ![MySQL](https://skillicons.dev/icons?i=mysql)
-<!-- ![Bash](https://skillicons.dev/icons?i=bash) -->
+![Bash](https://skillicons.dev/icons?i=bash)
 ![Linux](https://skillicons.dev/icons?i=linux)
 ![Github](https://skillicons.dev/icons?i=github)
-<!-- ![Tensorflow](https://skillicons.dev/icons?i=tensorflow) -->
-</div>
+![Tensorflow](https://skillicons.dev/icons?i=tensorflow) -->
 
-<!-- <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-<img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
 <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-<img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+<img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+<img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+<img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
+<img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+<!-- <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  /> -->
 <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
-<img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
-<img src="https://skillicons.dev/icons?i=tensorflow" height="40" alt="tensorflow logo"  /> -->
+<img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+<!-- <img src="https://skillicons.dev/icons?i=tensorflow" height="40" alt="tensorflow logo"  /> -->
+
+</div>
 
 
 
