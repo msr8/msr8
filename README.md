@@ -13,16 +13,16 @@
 
 
 
-# Skills
-
 <div align=center>
+
+# Skills
 
 ![Python](https://skillicons.dev/icons?i=py)
 ![JS](https://skillicons.dev/icons?i=js)
 ![HTML](https://skillicons.dev/icons?i=html)
 ![CSS](https://skillicons.dev/icons?i=css)
 ![MySQL](https://skillicons.dev/icons?i=mysql)
-![Bash](https://skillicons.dev/icons?i=bash)
+<!-- ![Bash](https://skillicons.dev/icons?i=bash) -->
 ![Linux](https://skillicons.dev/icons?i=linux)
 ![Github](https://skillicons.dev/icons?i=github)
 <!-- ![Tensorflow](https://skillicons.dev/icons?i=tensorflow) -->
@@ -44,6 +44,8 @@
 
 
 
+<div align=center>
+
 # Projects
 
 <!-- <div style="display:flex; justify-content:space-between;">
@@ -54,8 +56,6 @@
 <a href="https://github.com/msr8/cats">      <img src="https://github-readme-stats.vercel.app/api/pin/?username=msr8&repo=cats&theme=dark"      height=120 width=400 /></a>
 <a href="https://github.com/msr8/dotfiles">  <img src="https://github-readme-stats.vercel.app/api/pin/?username=msr8&repo=dotfiles&theme=dark"  height=120 width=400 /></a>
 </div> -->
-
-<div align=center>
 
 [ ![markify](https://github-readme-stats.vercel.app/api/pin/?username=msr8&repo=markify&theme=dark)     ](https://github.com/msr8/markify)
 
