@@ -68,7 +68,7 @@
 
 [ ![cats](https://github-readme-stats.vercel.app/api/pin/?username=msr8&repo=cats&theme=dark)           ](https://github.com/msr8/cats)
 
-[ ![dotfiles](https://github-readme-stats.vercel.app/api/pin/?username=msr8&repo=dotfiles&theme=dark)   ](https://github.com/msr8/dotfiles)
+<!-- [ ![dotfiles](https://github-readme-stats.vercel.app/api/pin/?username=msr8&repo=dotfiles&theme=dark)   ](https://github.com/msr8/dotfiles) -->
 
 </div>
 
