@@ -79,15 +79,25 @@ github_dark
 <a href="https://github.com/msr8/dotfiles">  <img src="https://github-readme-stats.vercel.app/api/pin/?username=msr8&repo=dotfiles&theme=dark"  height=120 width=400 /></a>
 </div> -->
 
-<img width=100% src="https://github-readme-stats.vercel.app/api/pin/?username=msr8&repo=markify&hide_border=true&theme=dark">
+<a href="https://github.com/msr8/markify"><img width=100% alt="markify" src="https://github-readme-stats.vercel.app/api/pin/?username=msr8&repo=markify&hide_border=true&theme=dark"></a>
 
+<a href="https://github.com/msr8/markify"><img width=100% alt="markify" src="https://github-readme-stats.vercel.app/api/pin/?username=msr8&repo=markify&hide_border=true&theme=dark"></a>
+
+<a href="https://github.com/msr8/tictactoe"><img width=100% alt="tictactoe" src="https://github-readme-stats.vercel.app/api/pin/?username=msr8&repo=tictactoe&hide_border=true&theme=dark"></a>
+
+<a href="https://github.com/msr8/cats"><img width=100% alt="cats" src="https://github-readme-stats.vercel.app/api/pin/?username=msr8&repo=cats&hide_border=true&theme=dark"></a>
+
+<a href="https://github.com/msr8/spotify"><img width=100% alt="spotify" src="https://github-readme-stats.vercel.app/api/pin/?username=msr8&repo=spotify&hide_border=true&theme=dark"></a>
+
+
+<!-- 
 [ ![markify](https://github-readme-stats.vercel.app/api/pin/?username=msr8&repo=markify&hide_border=true&theme=dark)     ](https://github.com/msr8/markify)
 
 [ ![tictactoe](https://github-readme-stats.vercel.app/api/pin/?username=msr8&repo=tictactoe&hide_border=true&theme=dark) ](https://github.com/msr8/tictactoe)
 
 [ ![cats](https://github-readme-stats.vercel.app/api/pin/?username=msr8&repo=cats&hide_border=true&theme=dark)           ](https://github.com/msr8/cats)
 
-[ ![spotify](https://github-readme-stats.vercel.app/api/pin/?username=msr8&repo=spotify&hide_border=true&theme=dark)     ](https://github.com/msr8/spotify)
+[ ![spotify](https://github-readme-stats.vercel.app/api/pin/?username=msr8&repo=spotify&hide_border=true&theme=dark)     ](https://github.com/msr8/spotify) -->
 
 
 <!-- [ ![dotfiles](https://github-readme-stats.vercel.app/api/pin/?username=msr8&repo=dotfiles&theme=dark)   ](https://github.com/msr8/dotfiles) -->
