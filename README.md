@@ -1,3 +1,18 @@
+<!-- 
+https://github.com/anuraghazra/github-readme-stats
+
+GOOD THEMES
+
+dark
+radical
+midnight-purple
+github_dark
+
+&bg_color=30,e96443,904e95&title_color=fff&text_color=fff
+
+![Kittinan's github stats](https://github-readme-stats.vercel.app/api?username=kittinan&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+-->
+
 <div align=center style="width:100%">
 
 # Statistics
@@ -5,8 +20,8 @@
 </div>
 
 <div style="display:flex; justify-content:space-between;" align=center>
-    <img alt="MSR8 Statistics" height=170 src="https://github-readme-stats.vercel.app/api?username=msr8&show_icons=true&rank_icon=github&hide=prs&include_all_commits=true&theme=radical" />
-    <img alt="Top Languages"   height=170 src="https://github-readme-stats.vercel.app/api/top-langs/?username=msr8&layout=compact&theme=radical" />
+    <img alt="MSR8 Statistics" height=170 src="https://github-readme-stats.vercel.app/api?username=msr8&show_icons=true&rank_icon=github&hide=prs&include_all_commits=true&exclude_repo=spotify&theme=radical&hide_border=true" />
+    <img alt="Top Languages"   height=170 src="https://github-readme-stats.vercel.app/api/top-langs/?username=msr8&layout=compact&theme=radical&hide_border=true" />
 </div>
 
 <!-- ![Wakatime Statistics](https://github-readme-stats.vercel.app/api/wakatime?username=msr8&theme=dark&layout=compact) -->
@@ -36,7 +51,9 @@
 <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
 <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
 <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-<!-- <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  /> -->
+<img src="https://skillicons.dev/icons?i=mongo" height="40" alt="docker logo"  />
+<img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
+<img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
 <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
 <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
 <!-- <img src="https://skillicons.dev/icons?i=tensorflow" height="40" alt="tensorflow logo"  /> -->
@@ -62,11 +79,14 @@
 <a href="https://github.com/msr8/dotfiles">  <img src="https://github-readme-stats.vercel.app/api/pin/?username=msr8&repo=dotfiles&theme=dark"  height=120 width=400 /></a>
 </div> -->
 
-[ ![markify](https://github-readme-stats.vercel.app/api/pin/?username=msr8&repo=markify&theme=dark)     ](https://github.com/msr8/markify)
+[ ![markify](https://github-readme-stats.vercel.app/api/pin/?username=msr8&repo=markify&hide_border=true&theme=dark)     ](https://github.com/msr8/markify)
 
-[ ![tictactoe](https://github-readme-stats.vercel.app/api/pin/?username=msr8&repo=tictactoe&theme=dark) ](https://github.com/msr8/tictactoe)
+[ ![tictactoe](https://github-readme-stats.vercel.app/api/pin/?username=msr8&repo=tictactoe&hide_border=true&theme=dark) ](https://github.com/msr8/tictactoe)
 
-[ ![cats](https://github-readme-stats.vercel.app/api/pin/?username=msr8&repo=cats&theme=dark)           ](https://github.com/msr8/cats)
+[ ![cats](https://github-readme-stats.vercel.app/api/pin/?username=msr8&repo=cats&hide_border=true&theme=dark)           ](https://github.com/msr8/cats)
+
+[ ![spotify](https://github-readme-stats.vercel.app/api/pin/?username=msr8&repo=spotify&hide_border=true&theme=dark)     ](https://github.com/msr8/spotify)
+
 
 <!-- [ ![dotfiles](https://github-readme-stats.vercel.app/api/pin/?username=msr8&repo=dotfiles&theme=dark)   ](https://github.com/msr8/dotfiles) -->
 
@@ -75,23 +95,6 @@
 <!-- [ ![cats](https://github-readme-stats.vercel.app/api/pin/?username=msr8&repo=cats&theme=dark) ](https://github.com/msr8/cats)
 [ ![markify](https://github-readme-stats.vercel.app/api/pin/?username=msr8&repo=markify&theme=github_dark) ](https://github.com/msr8/markify)
 [ ![dotfiles](https://github-readme-stats.vercel.app/api/pin/?username=msr8&repo=dotfiles&theme=github_dark) ](https://github.com/msr8/dotfiles) -->
-
-
-
-
-<!--
-GOOD THEMES
-
-dark
-radical
-midnight-purple
-github_dark
-
-&bg_color=30,e96443,904e95&title_color=fff&text_color=fff
-
-![Kittinan's github stats](https://github-readme-stats.vercel.app/api?username=kittinan&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-
--->
 
 
 
