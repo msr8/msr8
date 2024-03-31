@@ -1,6 +1,8 @@
 <!-- 
 https://github.com/anuraghazra/github-readme-stats
 
+&exclude_repo=dotfiles,school,msr8.github.io,my-dwm,cubestuff
+
 GOOD THEMES
 
 dark
@@ -20,8 +22,8 @@ github_dark
 </div>
 
 <div style="display:flex; justify-content:space-between;" align=center>
-    <img alt="MSR8 Statistics" height=170 src="https://github-readme-stats.vercel.app/api?username=msr8&show_icons=true&rank_icon=github&hide=prs&include_all_commits=true&exclude_repo=spotify&theme=radical&hide_border=true" />
-    <img alt="Top Languages"   height=170 src="https://github-readme-stats.vercel.app/api/top-langs/?username=msr8&layout=compact&theme=radical&hide_border=true" />
+    <img alt="MSR8 Statistics" height=170 src="https://github-readme-stats.vercel.app/api?username=msr8&show_icons=true&rank_icon=github&hide=prs&include_all_commits=true&theme=radical&hide_border=true&exclude_repo=dotfiles,school,msr8.github.io,my-dwm,cubestuff" />
+    <img alt="Top Languages"   height=170 src="https://github-readme-stats.vercel.app/api/top-langs/?username=msr8&layout=compact&theme=radical&hide_border=true&exclude_repo=dotfiles,school,msr8.github.io,my-dwm,cubestuff" />
 </div>
 
 <!-- ![Wakatime Statistics](https://github-readme-stats.vercel.app/api/wakatime?username=msr8&theme=dark&layout=compact) -->
