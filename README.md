@@ -79,7 +79,6 @@ github_dark
 <a href="https://github.com/msr8/dotfiles">  <img src="https://github-readme-stats.vercel.app/api/pin/?username=msr8&repo=dotfiles&theme=dark"  height=120 width=400 /></a>
 </div> -->
 
-<a href="https://github.com/msr8/markify"><img width=100% alt="markify" src="https://github-readme-stats.vercel.app/api/pin/?username=msr8&repo=markify&hide_border=true&theme=dark"></a>
 
 <a href="https://github.com/msr8/markify"><img width=100% alt="markify" src="https://github-readme-stats.vercel.app/api/pin/?username=msr8&repo=markify&hide_border=true&theme=dark"></a>
 
