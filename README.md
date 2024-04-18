@@ -82,13 +82,17 @@ github_dark
 </div> -->
 
 
-<a href="https://github.com/msr8/markify"><img width=100% alt="markify" src="https://github-readme-stats.vercel.app/api/pin/?username=msr8&repo=markify&hide_border=true&theme=dark"></a>
+<a href="https://github.com/msr8/markify"><img width=70% alt="markify" src="https://github-readme-stats.vercel.app/api/pin/?username=msr8&repo=markify&hide_border=true&theme=dark"></a>
 
-<a href="https://github.com/msr8/tictactoe"><img width=100% alt="tictactoe" src="https://github-readme-stats.vercel.app/api/pin/?username=msr8&repo=tictactoe&hide_border=true&theme=dark"></a>
+<a href="https://github.com/msr8/tictactoe"><img width=70% alt="tictactoe" src="https://github-readme-stats.vercel.app/api/pin/?username=msr8&repo=tictactoe&hide_border=true&theme=dark"></a>
 
-<a href="https://github.com/msr8/cats"><img width=100% alt="cats" src="https://github-readme-stats.vercel.app/api/pin/?username=msr8&repo=cats&hide_border=true&theme=dark"></a>
+<a href="https://github.com/msr8/cats"><img width=70% alt="cats" src="https://github-readme-stats.vercel.app/api/pin/?username=msr8&repo=cats&hide_border=true&theme=dark"></a>
 
-<a href="https://github.com/msr8/spotify"><img width=100% alt="spotify" src="https://github-readme-stats.vercel.app/api/pin/?username=msr8&repo=spotify&hide_border=true&theme=dark"></a>
+<a href="https://github.com/msr8/spotify"><img width=70% alt="classification" src="https://github-readme-stats.vercel.app/api/pin/?username=msr8&repo=classification&hide_border=true&theme=dark"></a>
+
+<a href="https://github.com/msr8/spotify"><img width=70% alt="spotify" src="https://github-readme-stats.vercel.app/api/pin/?username=msr8&repo=spotify&hide_border=true&theme=dark"></a>
+
+
 
 
 <!-- 
