@@ -88,7 +88,7 @@ github_dark
 
 <a href="https://github.com/msr8/cats"><img width=70% alt="cats" src="https://github-readme-stats.vercel.app/api/pin/?username=msr8&repo=cats&hide_border=true&theme=dark"></a>
 
-<a href="https://github.com/msr8/spotify"><img width=70% alt="classification" src="https://github-readme-stats.vercel.app/api/pin/?username=msr8&repo=classification&hide_border=true&theme=dark"></a>
+<a href="https://github.com/msr8/classification"><img width=70% alt="classification" src="https://github-readme-stats.vercel.app/api/pin/?username=msr8&repo=classification&hide_border=true&theme=dark"></a>
 
 <a href="https://github.com/msr8/spotify"><img width=70% alt="spotify" src="https://github-readme-stats.vercel.app/api/pin/?username=msr8&repo=spotify&hide_border=true&theme=dark"></a>
 
