@@ -48,17 +48,18 @@ github_dark
 ![Github](https://skillicons.dev/icons?i=github)
 ![Tensorflow](https://skillicons.dev/icons?i=tensorflow) -->
 
-<img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-<img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-<img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-<img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
-<img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-<img src="https://skillicons.dev/icons?i=mongo" height="40" alt="docker logo"  />
-<img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
-<img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
-<img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
-<img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-<!-- <img src="https://skillicons.dev/icons?i=tensorflow" height="40" alt="tensorflow logo"  /> -->
+<img src="https://skillicons.dev/icons?i=py"         height="40" alt="python logo"  />
+<img src="https://skillicons.dev/icons?i=tensorflow" height="40" alt="tensorflow logo"  />
+<img src="https://skillicons.dev/icons?i=sklearn"    height="40" alt="sklearn logo"  />
+<img src="https://skillicons.dev/icons?i=js"         height="40" alt="javascript logo"  />
+<img src="https://skillicons.dev/icons?i=html"       height="40" alt="html5 logo"  />
+<img src="https://skillicons.dev/icons?i=css"        height="40" alt="css3 logo"  />
+<img src="https://skillicons.dev/icons?i=mysql"      height="40" alt="mysql logo"  />
+<img src="https://skillicons.dev/icons?i=mongo"      height="40" alt="mongo logo"  />
+<img src="https://skillicons.dev/icons?i=bash"       height="40" alt="bash logo"  />
+<img src="https://skillicons.dev/icons?i=docker"     height="40" alt="docker logo"  />
+<img src="https://skillicons.dev/icons?i=linux"      height="40" alt="linux logo"  />
+<img src="https://skillicons.dev/icons?i=github"     height="40" alt="github logo"  />
 
 </div>
 
