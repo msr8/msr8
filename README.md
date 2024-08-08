@@ -48,6 +48,11 @@ github_dark
 ![Github](https://skillicons.dev/icons?i=github)
 ![Tensorflow](https://skillicons.dev/icons?i=tensorflow) -->
 
+<!--
+https://devicon.dev/ (https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg)
+https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white
+-->
+
 <img src="https://skillicons.dev/icons?i=py"         height="40" alt="python logo"  />
 <img src="https://skillicons.dev/icons?i=tensorflow" height="40" alt="tensorflow logo"  />
 <img src="https://skillicons.dev/icons?i=sklearn"    height="40" alt="sklearn logo"  />
@@ -69,9 +74,20 @@ github_dark
 
 
 
-<div align=center style="width:100%">
+<div align=center style="width:100%"># Projects</div>
 
-# Projects
+<div align=center style="width:100%">## Machine Minds</div>
+
+- Designed an **attractive game-based learning platform** for machine learning concepts
+- Developed **engaging quizzes** to test the user's knowledge
+- Developed **interactive visualizations** to help users understand the role of the hyperparamters
+- Authored **user-friendly guides** on various machine learning topics
+- Established a **forum** for users to seek assistance and engage with the community
+- Integrated **Google OAuth** to simplify and streamline the login process
+
+
+
+
 
 <!-- <div style="display:flex; justify-content:space-between;">
 <a href="https://github.com/msr8/markify">   <img src="https://github-readme-stats.vercel.app/api/pin/?username=msr8&repo=markify&theme=dark"   height=120 width=400 /></a>
@@ -83,15 +99,11 @@ github_dark
 </div> -->
 
 
-<a href="https://github.com/msr8/markify"><img width=70% alt="markify" src="https://github-readme-stats.vercel.app/api/pin/?username=msr8&repo=markify&hide_border=true&theme=dark"></a>
-
+<!-- <a href="https://github.com/msr8/markify"><img width=70% alt="markify" src="https://github-readme-stats.vercel.app/api/pin/?username=msr8&repo=markify&hide_border=true&theme=dark"></a>
 <a href="https://github.com/msr8/tictactoe"><img width=70% alt="tictactoe" src="https://github-readme-stats.vercel.app/api/pin/?username=msr8&repo=tictactoe&hide_border=true&theme=dark"></a>
-
 <a href="https://github.com/msr8/cats"><img width=70% alt="cats" src="https://github-readme-stats.vercel.app/api/pin/?username=msr8&repo=cats&hide_border=true&theme=dark"></a>
-
 <a href="https://github.com/msr8/classification"><img width=70% alt="classification" src="https://github-readme-stats.vercel.app/api/pin/?username=msr8&repo=classification&hide_border=true&theme=dark"></a>
-
-<a href="https://github.com/msr8/spotify"><img width=70% alt="spotify" src="https://github-readme-stats.vercel.app/api/pin/?username=msr8&repo=spotify&hide_border=true&theme=dark"></a>
+<a href="https://github.com/msr8/spotify"><img width=70% alt="spotify" src="https://github-readme-stats.vercel.app/api/pin/?username=msr8&repo=spotify&hide_border=true&theme=dark"></a> -->
 
 
 
@@ -108,7 +120,7 @@ github_dark
 
 <!-- [ ![dotfiles](https://github-readme-stats.vercel.app/api/pin/?username=msr8&repo=dotfiles&theme=dark)   ](https://github.com/msr8/dotfiles) -->
 
-</div>
+
 
 <!-- [ ![cats](https://github-readme-stats.vercel.app/api/pin/?username=msr8&repo=cats&theme=dark) ](https://github.com/msr8/cats)
 [ ![markify](https://github-readme-stats.vercel.app/api/pin/?username=msr8&repo=markify&theme=github_dark) ](https://github.com/msr8/markify)
