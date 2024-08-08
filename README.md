@@ -75,11 +75,15 @@ https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=panda
 
 
 <div align=center style="width:100%">
+
 # Projects
+
 </div>
 
 <div align=center style="width:100%">
+
 ## Machine Minds
+
 </div>
 
 - Designed an **attractive game-based learning platform** for machine learning concepts
