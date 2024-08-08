@@ -90,14 +90,12 @@ https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=panda
 
 </div>
 
-- Designed an ***attractive game-based learning platform*** for machine learning concepts
-- Developed ***engaging quizzes*** to test the user's knowledge
-- Developed ***interactive visualizations*** to help users understand the role of the hyperparamters
-- Authored ***user-friendly guides*** on various machine learning topics
-- Established a ***forum*** for users to seek assistance and engage with the community
-- Integrated ***Google OAuth*** to simplify and streamline the login process
-
-
+- Designed an <span style="text-decoration:underline;">attractive game-based learning platform</span> for machine learning concepts
+- Developed <span style="text-decoration:underline;">engaging quizzes</span> to test the user's knowledge
+- Developed <span style="text-decoration:underline;">interactive visualizations</span> to help users understand the role of the hyperparameters
+- Authored <span style="text-decoration:underline;">user-friendly guides</span> on various machine learning topics
+- Established a <span style="text-decoration:underline;">forum</span> for users to seek assistance and engage with the community
+- Integrated <span style="text-decoration:underline;">Google OAuth</span> to simplify and streamline the login process
 
 <div align=center style="width:100%">
 
@@ -105,13 +103,11 @@ https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=panda
 
 </div>
 
-- Engineered a ***command-line application**, Markify, leveraging Python to extract and analyze data from social media accounts
-- Employed ***NLTK*** for meticulous data sanitization
-- Demonstrated proficiency in ***interfacting with a variety of APIs*** (official and unofficial) to aggregate data
-- Employed the use of the ***markov chains*** for generating new sentences
-- Packaged the application for widespread use by uploading it to ***PyPI**
-
-
+- Engineered a <span style="text-decoration:underline;">command-line application</span>, Markify, leveraging Python to extract and analyze data from social media accounts
+- Employed <span style="text-decoration:underline;">NLTK</span> for meticulous data sanitization
+- Demonstrated proficiency in <span style="text-decoration:underline;">interfacing with a variety of APIs</span> (official and unofficial) to aggregate data
+- Employed the use of the <span style="text-decoration:underline;">markov chains</span> for generating new sentences
+- Packaged the application for widespread use by uploading it to <span style="text-decoration:underline;">PyPI</span>
 
 <div align=center style="width:100%">
 
@@ -119,14 +115,12 @@ https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=panda
 
 </div>
 
-- Designed a web platform enabling users to interactively ***manipulate data generation processes and model hyperparameters**, with visual feedback of the outcomes
-- Demonstrated knowledge and proficiency in the inner workings of ***various classification algorithms**
-- Utilized ***Matplotlib*** for plotting the data and visualizing the decision boundaries
-- Developed an API using ***Flask*** to facilitate plot generation
-- Implemented thorough ***error validation mechanisms**
-- Deployed the website using ***PythonAnywhere**
-
-
+- Designed a web platform enabling users to interactively <span style="text-decoration:underline;">manipulate data generation processes and model hyperparameters</span>, with visual feedback of the outcomes
+- Demonstrated knowledge and proficiency in the inner workings of <span style="text-decoration:underline;">various classification algorithms</span>
+- Utilized <span style="text-decoration:underline;">Matplotlib</span> for plotting the data and visualizing the decision boundaries
+- Developed an API using <span style="text-decoration:underline;">Flask</span> to facilitate plot generation
+- Implemented thorough <span style="text-decoration:underline;">error validation mechanisms</span>
+- Deployed the website using <span style="text-decoration:underline;">PythonAnywhere</span>
 
 <div align=center style="width:100%">
 
@@ -134,14 +128,15 @@ https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=panda
 
 </div>
 
-- Developed a spotify scraper and a corresponding website enabling users to ***receive personalized recommendations*** based on Spotify track links or IDs
-- Utilized a custom optimized ***K-Nearest Neighbors algorithm*** for recommendation generation
-- Implemented ***MongoDB*** as the database backend for efficient data storage and flexible querying capabilities
-- Containerized the web server using ***Docker*** for seamless deployment and execution across diverse environments
-- Leveraged the Spotify API to scrape the ***audio features of over 7 million songs**
-- Implemented ***robust error handling*** within the scraper as to prevent interruptions due to errors during operation, thereby ensuring continuous operation over extended durations without interruptions
-- Demonstrated adeptness in utilizing both, ***official and unofficial APIs*** for data acquisition
-- Designed a ***minimalist yet responsive frontend*** interface, prioritizing usability and simplicity without unnecessary clutter
+- Developed a Spotify scraper and a corresponding website enabling users to <span style="text-decoration:underline;">receive personalized recommendations</span> based on Spotify track links or IDs
+- Utilized a custom optimized <span style="text-decoration:underline;">K-Nearest Neighbors algorithm</span> for recommendation generation
+- Implemented <span style="text-decoration:underline;">MongoDB</span> as the database backend for efficient data storage and flexible querying capabilities
+- Containerized the web server using <span style="text-decoration:underline;">Docker</span> for seamless deployment and execution across diverse environments
+- Leveraged the Spotify API to scrape the <span style="text-decoration:underline;">audio features of over 7 million songs</span>
+- Implemented <span style="text-decoration:underline;">robust error handling</span> within the scraper to prevent interruptions due to errors during operation, thereby ensuring continuous operation over extended durations without interruptions
+- Demonstrated adeptness in utilizing both, <span style="text-decoration:underline;">official and unofficial APIs</span> for data acquisition
+- Designed a <span style="text-decoration:underline;">minimalist yet responsive frontend</span> interface, prioritizing usability and simplicity without unnecessary clutter
+
 
 
 
