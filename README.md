@@ -157,7 +157,7 @@ https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=panda
 
 
 
-<div align=center style="width:100%">
+<!-- <div align=center style="width:100%">
 
 ## [Cats](https://github.com/msr8/cats)
 
@@ -173,7 +173,7 @@ https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=panda
 
 <div align=center style="width:100%">
 
-## Discord Cat Bot
+## [Discord Cat Bot](https://github.com/msr8/discordcatbot)
 
 </div>
 
@@ -181,7 +181,7 @@ https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=panda
 - Used Python to scrape 9k+ cat pictures and videos from Reddit
 - Used Python to scrape 300+ facts relating to cats
 - Used the Pycord module to interact with Discord's API
-- Hosted on a Vultr VPS
+- Hosted on a Vultr VPS -->
 
 
 
