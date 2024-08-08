@@ -80,6 +80,8 @@ https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=panda
 
 </div>
 
+<!-- ---------------------------------------------- -->
+
 <div align=center style="width:100%">
 
 ## Machine Minds
@@ -92,6 +94,45 @@ https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=panda
 - Authored **user-friendly guides** on various machine learning topics
 - Established a **forum** for users to seek assistance and engage with the community
 - Integrated **Google OAuth** to simplify and streamline the login process
+
+<div align=center style="width:100%">
+
+## Markify
+
+</div>
+
+
+<div align=center style="width:100%">
+
+## Classification Algorithm Visualiser
+
+</div>
+
+
+<div align=center style="width:100%">
+
+## ![test](https://skillicons.dev/icons?i=github) Spotify Recommender
+
+</div>
+
+<div align=center style="width:100%">
+
+## TicTacToe AI
+
+</div>
+
+<div align=center style="width:100%">
+
+## Cats
+
+</div>
+
+<div align=center style="width:100%">
+
+## Discord Cat Bot
+
+</div>
+
 
 
 
