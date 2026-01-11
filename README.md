@@ -104,20 +104,20 @@ Burpsuite
 
 <table>
   <tr>
-    <th align="center">Machine Learning</th>
+    <th>Machine Learning</th>
   </tr>
   <tr>
-    <td align="center">
+    <td>
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
       <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
       <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white" alt="Keras" />
     </td>
   </tr>
   <tr>
-    <th align="center">Web Development</th>
+    <th>Web Development</th>
   </tr>
   <tr>
-    <td align="center">
+    <td>
       <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
       <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
@@ -126,19 +126,19 @@ Burpsuite
     </td>
   </tr>
   <tr>
-    <th align="center">Databases</th>
+    <th>Databases</th>
   </tr>
   <tr>
-    <td align="center">
+    <td>
       <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
       <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
     </td>
   </tr>
   <tr>
-    <th align="center">DevOps & Cyber Security</th>
+    <th>DevOps & Cyber Security</th>
   </tr>
   <tr>
-    <td align="center">
+    <td>
       <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
       <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
       <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
@@ -148,10 +148,10 @@ Burpsuite
     </td>
   </tr>
   <tr>
-    <th align="center">Others</th>
+    <th>Others</th>
   </tr>
   <tr>
-    <td align="center">
+    <td>
       <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
       <img src="https://img.shields.io/badge/LaTeX-47545E?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX" />
       <img src="https://img.shields.io/badge/UiPath-FA4616?style=for-the-badge&logo=uipath&logoColor=white" alt="UiPath" />
@@ -176,6 +176,21 @@ Burpsuite
 
 
 <br>
+
+
+
+<div align=center style="width:100%">
+
+## [Synapse](https://github.com/msr8/synapse)
+
+</div>
+
+- Engineered a ***full-stack real-time ML platform*** enabling seamless dataset upload, processing, and model hyperparameter finetuning
+- Integrated ***Bayesian Optimization*** to autonomously tune hyperparameters for diverse models like ***LightGBM, SVM, and Random Forest***
+- Implemented an ***automated EDA pipeline*** generating insightful and interactive visualizations including correlation matrices, mutual information heatmaps, and pairplots
+- Developed a ***robust customisable preprocessing engine*** with intelligent missing value handling, encoding, feature selection, and scaling
+- Embedded a ***Generative AI chatbot*** to provide interactive, data-driven insights and statistical interpretations to both, technical and non-technical users
+
 
 
 <div align=center style="width:100%">
