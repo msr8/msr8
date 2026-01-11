@@ -89,7 +89,18 @@ Virtualbox
 Burpsuite
 -->
 
-| <span style="font-size:100">SKILLS</span> |
+<table>
+  <tr>
+    <td>Data Cell 1</td>
+    <td>Data Cell 2</td>
+  </tr>
+  <tr>
+    <td>Data Cell 3</td>
+    <td>Data Cell 4</td>
+  </tr>
+</table>
+
+| <span style="font-size:100"> |
 | ---------------- |
 | **Machine Learning** |
 | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white) |
