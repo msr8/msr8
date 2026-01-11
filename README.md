@@ -185,12 +185,11 @@ Burpsuite
 
 </div>
 
-1) Engineered a **full-stack real-time ML platform** enabling the automation of ML workflows
-2) Integrated **Bayesian Optimization** to autonomously tune hyperparameters for diverse models
-3) Implemented an **automated EDA pipeline** generating insightful and interactive visualizations
-4) Developed a **robust customisable preprocessing engine** with intelligent missing value handling, feature selection, and scaling
-5) Embedded a **Generative AI chatbot** to provide data-driven insights and statistical interpretations for technical and non-technical users
-
+- Engineered a ***full-stack real-time ML platform*** enabling the automation of ML workflows
+- Integrated ***Bayesian Optimization*** to autonomously tune hyperparameters for diverse models
+- Implemented an ***automated EDA pipeline*** generating insightful and interactive visualizations
+- Developed a ***robust customisable preprocessing engine*** with intelligent missing value handling, feature selection, and scaling
+- Embedded a ***Generative AI chatbot*** to provide data-driven insights and statistical interpretations for technical and non-technical users
 
 
 <div align=center style="width:100%">
