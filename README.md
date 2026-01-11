@@ -189,7 +189,7 @@ Burpsuite
 - Integrated ***Bayesian Optimization*** to autonomously tune hyperparameters for diverse models
 - Implemented an ***automated EDA pipeline*** generating insightful and interactive visualizations
 - Developed a ***robust customisable preprocessing engine*** with intelligent missing value handling, feature selection, and scaling
-- Embedded a ***Generative AI chatbot*** to provide data-driven insights and statistical interpretations for technical and non-technical users
+- Embedded an ***AI chatbot*** to provide data-driven insights and statistical interpretations for technical and non-technical users
 
 
 <div align=center style="width:100%">
