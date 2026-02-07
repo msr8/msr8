@@ -15,13 +15,13 @@ github_dark
 ![Kittinan's github stats](https://github-readme-stats.vercel.app/api?username=kittinan&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 -->
 
-<div align=center style="width:100%">
+<div align="center" style="width:100%">
 
 # Statistics
 
 </div>
 
-<div style="display:flex; justify-content:space-between;" align=center>
+<div style="display:flex; justify-content:space-between;" align="center">
     <img alt="MSR8 Statistics" height=170 src="https://github-readme-stats.vercel.app/api?username=msr8&show_icons=true&rank_icon=github&hide=prs&include_all_commits=true&theme=radical&hide_border=true&exclude_repo=dotfiles,school,msr8.github.io,my-dwm,cubestuff" />
     <img alt="Top Languages"   height=170 src="https://github-readme-stats.vercel.app/api/top-langs/?username=msr8&layout=compact&theme=radical&hide_border=true&exclude_repo=dotfiles,school,msr8.github.io,my-dwm,cubestuff" />
 </div>
@@ -34,7 +34,7 @@ github_dark
 
 
 
-<div align=center style="width:100%">
+<div align="center" style="width:100%">
 
 # Skills
 
@@ -102,7 +102,7 @@ Burpsuite
 | **Others** |
 | ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) ![LaTeX](https://img.shields.io/badge/LaTeX-47545E?style=for-the-badge&logo=latex&logoColor=white) ![UiPath](https://img.shields.io/badge/UiPath-FA4616?style=for-the-badge&logo=uipath&logoColor=white) | -->
 
-<table>
+<table width="100%">
   <tr>
     <th>Machine Learning</th>
   </tr>
@@ -168,7 +168,7 @@ Burpsuite
 
 
 
-<div align=center style="width:100%">
+<div align="center" style="width:100%">
 
 # Projects
 
@@ -179,7 +179,7 @@ Burpsuite
 
 
 
-<div align=center style="width:100%">
+<div align="center" style="width:100%">
 
 ## [Synapse](https://github.com/msr8/synapse)
 
@@ -192,7 +192,7 @@ Burpsuite
 - Embedded an ***AI chatbot*** to provide data-driven insights and statistical interpretations for technical and non-technical users
 
 
-<div align=center style="width:100%">
+<div align="center" style="width:100%">
 
 ## [Machine Minds](https://github.com/keshxvdayal/machine-minds)
 
@@ -207,7 +207,7 @@ Burpsuite
 
 
 
-<div align=center style="width:100%">
+<div align="center" style="width:100%">
 
 ## [Markify](https://github.com/msr8/markify)
 
@@ -221,7 +221,7 @@ Burpsuite
 
 
 
-<div align=center style="width:100%">
+<div align="center" style="width:100%">
 
 ## [Classification Algorithm Visualiser](https://github.com/msr8/classification)
 
@@ -236,7 +236,7 @@ Burpsuite
 
 
 
-<div align=center style="width:100%">
+<div align="center" style="width:100%">
 
 ## [Spotify Recommender](https://github.com/msr8/spotify)
 
@@ -253,7 +253,7 @@ Burpsuite
 
 
 
-<div align=center style="width:100%">
+<div align="center" style="width:100%">
 
 ## [TicTacToe AI](https://github.com/msr8/tictactoe)
 
@@ -265,7 +265,7 @@ Burpsuite
 
 
 
-<!-- <div align=center style="width:100%">
+<!-- <div align="center" style="width:100%">
 
 ## [Cats](https://github.com/msr8/cats)
 
@@ -279,7 +279,7 @@ Burpsuite
 
 
 
-<div align=center style="width:100%">
+<div align="center" style="width:100%">
 
 ## [Discord Cat Bot](https://github.com/msr8/discordcatbot)
 
