@@ -26,6 +26,12 @@ github_dark
     <img alt="Top Languages"   height=170 src="https://github-readme-stats.vercel.app/api/top-langs/?username=msr8&layout=compact&theme=radical&hide_border=true&exclude_repo=dotfiles,school,msr8.github.io,my-dwm,cubestuff" />
 </div>
 
+<br>
+
+<div align="center">
+<img src="thm-badge.png" alt="TryHackMe Badge" />
+</div>
+
 <!-- ![Wakatime Statistics](https://github-readme-stats.vercel.app/api/wakatime?username=msr8&theme=dark&layout=compact) -->
 
 
@@ -149,7 +155,7 @@ Burpsuite
       <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
       <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
       <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-      <img src="https://img.shields.io/badge/PythonAnywhere-1D9FD7?style=for-the-badge&logo=pythonanywhere&logoColor=white" alt="PythonAnywhere" />
+      <img src="https://img.shields.io/badge/PythonAnywhere-111111?style=for-the-badge&logo=pythonanywhere&logoColor=white" alt="PythonAnywhere" />
       <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" alt="Railway" />
       <img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white" alt="Render" />
       <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
