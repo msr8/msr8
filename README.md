@@ -29,7 +29,8 @@ github_dark
 <br>
 
 <!-- <div align="center"><img src="thm-badge.png" alt="TryHackMe Badge" /></div> -->
-<div align="center"><img src="https://tryhackme-badges.s3.amazonaws.com/maybemsr8.png" alt="TryHackMe Badge" /></div>
+<!-- <div align="center"><img src="https://tryhackme-badges.s3.amazonaws.com/maybemsr8.png" alt="TryHackMe Badge" /></div> -->
+<div align="center"><img src="https://tryhackme-images.s3.amazonaws.com/streak/maybemsr8.png" alt="TryHackMe Badge" /></div>
 
 <!-- ![Wakatime Statistics](https://github-readme-stats.vercel.app/api/wakatime?username=msr8&theme=dark&layout=compact) -->
 
